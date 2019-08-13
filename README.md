@@ -1,2 +1,2 @@
-# task
-task repo
+# card
+card repo
