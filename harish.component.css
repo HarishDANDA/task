@@ -1,0 +1,54 @@
+.socialmedia {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 79px;
+    color: aqua;
+    text-align: center;
+  }
+  .aboutsm {
+    font-family: HelveticaNeue;
+   color: lightslategray;
+    font-size: 20px;
+    text-align: center;
+    padding: 0px 15%;
+    word-break: break-word;
+  }
+  .cardcls {
+    padding:10% 0px 0px 0px ;
+    background-color: #f7f8f9;
+  }
+  
+  
+  .cardcls:hover {
+    box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15) !important;
+    transition: all 0.55s ease-in-out;
+    background-color: brown;
+    color: white !important;
+  }
+  
+  .shadow-sm {
+    box-shadow: none !important;
+}
+  .card{
+      border: none;
+  }
+  .cardcontent{
+      font-family: HelveticaNeue;
+      font-size: 15px;
+      color: #000000;
+      line-height:1
+  
+  }
+  .card-text{
+      font-family: HelveticaNeue;
+      font-size: 25px;
+      color: #000000;
+      font-style: bolder
+  }
+  .clslastgrid{
+      text-align:center;
+      margin-top:-8%
+  }
+  .gridcls{
+      text-align:center;
+  }
+ 
